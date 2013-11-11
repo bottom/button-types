@@ -1,0 +1,76 @@
+button.primary,
+.button.primary {
+  background-color: #1abc9c;
+}
+button.primary:hover,
+.button.primary:hover {
+  background-color: #48c9b0;
+}
+button.primary:active,
+.button.primary:active {
+  background-color: #16a085;
+}
+button.secondary,
+.button.secondary {
+  place: holder;
+}
+button.success,
+.button.success {
+  background-color: #2ecc71;
+}
+button.success:hover,
+.button.success:hover {
+  background-color: #58d68d;
+}
+button.success:active,
+.button.success:active {
+  background-color: #27ae60;
+}
+button.warning,
+.button.warning {
+  background-color: #f1c40f;
+}
+button.warning:hover,
+.button.warning:hover {
+  background-color: #f5d313;
+}
+button.warning:active,
+.button.warning:active {
+  background-color: #cda70d;
+}
+button.error,
+.button.error {
+  background-color: #e74c3c;
+}
+button.error:hover,
+.button.error:hover {
+  background-color: #ec7063;
+}
+button.error:active,
+.button.error:active {
+  background-color: #c44133;
+}
+button.info,
+.button.info {
+  background-color: #3498db;
+}
+button.info:hover,
+.button.info:hover {
+  background-color: #5dade2;
+}
+button.info:active,
+.button.info:active {
+  background-color: #2c81ba;
+}
+button.inverse,
+.button.inverse {
+  background-color: #34495e;
+}
+button.inverse:hover,
+.button.inverse:hover {
+  background-color: #415b76;
+}
+button.inverse:active,
+.button.inverse:active {
+  background-color: #2c3e50;
+}

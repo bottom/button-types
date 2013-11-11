@@ -1,0 +1,17 @@
+{
+  "name": "button-types",
+  "repo": "bottom/button-types",
+  "description": "Base button types",
+  "version": "0.0.1",
+  "paths": ["../"],
+  "local": [],
+  "keywords": [],
+  "dependencies": {
+    "bottom/button": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "css/button-types.css"
+  ]
+}
