@@ -1,13 +1,13 @@
 
-# button-sizes
+# button-types
 
-  Base button sizes
+  Base button types
 
 ## Installation
 
   Install with [component(1)](http://component.io):
 
-    $ component install bottom/button-sizes
+    $ component install bottom/button-types
 
 ## Test
 http://bottom.github.io/button-types/test
